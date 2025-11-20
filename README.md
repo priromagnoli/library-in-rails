@@ -1,1 +1,1 @@
-# library-in-rails
+# Rails library
